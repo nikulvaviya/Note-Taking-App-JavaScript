@@ -42,7 +42,7 @@ The user interface is designed to be intuitive and clean, with clear visual cues
 
 - **index.html**: The main HTML file that contains the structure of the app.
 - **styles.css**: The CSS file that handles the styling, including responsiveness and theme settings.
-- **script.js**: The JavaScript file that manages the app's interactivity, including CRUD operations and theme switching.
+- **app.js**: The JavaScript file that manages the app's interactivity, including CRUD operations and theme switching.
 
 
 ---
